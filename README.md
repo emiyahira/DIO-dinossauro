@@ -1,2 +1,1 @@
-# DIO-dinossauro
-jogo dinossauro 
+# DIO Dinossauro
